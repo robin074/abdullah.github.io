@@ -1,3 +1,17 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+
+.banner-container{
+    background-color: #b66363;
+}
+.banner-column{
+background-color: rgb(24, 22, 19);
+}
+.navbar-container{
+background-color: rgb(28, 31, 31);
+}
+
+.about-container{
+    background-color: rgb(35, 128, 128);
+}
