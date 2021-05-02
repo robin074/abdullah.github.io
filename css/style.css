@@ -37,3 +37,24 @@ background-color: rgb(28, 31, 31);
     background-color: #2BB3DD;
     
 }
+
+.footer{
+    background-color: #2BB3DD;
+}
+
+.circlee{
+width: 60px;
+height: 60px;
+border-radius: 50%;
+display: inline-block;
+background-color: white;
+font-size: 40px;
+text-align: center;
+color: blue;
+
+}
+
+.circlee:hover{
+    background-color:blueviolet ;
+    
+}
