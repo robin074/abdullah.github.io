@@ -9,7 +9,10 @@ body{
 background-color: rgb(24, 22, 19);
 }
 .navbar-container{
+top: 0;
 background-color: rgb(28, 31, 31);
+position: sticky;
+z-index: 2;
 }
 
 .about-container{
@@ -23,6 +26,11 @@ background-color: rgb(28, 31, 31);
 .bg-redtype{
     background-color: #FB857F;
 }
+
+.bg-redtype:hover{
+    color: black important;
+}
+
 .redtype-color{
     color: #FB857F;
 }
@@ -57,4 +65,12 @@ color: blue;
 .circlee:hover{
     background-color:blueviolet ;
     
+}
+.form-container{
+background-color: #474d5d;
+
+}
+.inner-form{
+background-color: #585F73;
+
 }
